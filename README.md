@@ -52,9 +52,6 @@
    - Learn new human speaking Language.
 
 </details>
-
--  Fun fact:
-
 <br />
 
 ### Connect with me:
@@ -62,7 +59,7 @@
 [<img align="left" alt="ixboy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ixboy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ixboy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ixboy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="Ixboy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 
 ### Languages and Tools:
@@ -107,6 +104,25 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
+<hr>
+<br>
+
+***<p align="center">🟢Currently Available for Professional Oportunities👨‍💻</p>***
+<p align="center">
+  <a href="https://github.com/jcy2704">
+    <img src="https://img.shields.io/github/followers/ixboy?color=%23181717&label=JCY2704&logo=github&logoColor=%23181717&style=for-the-badge" alt="github badge">
+  </a>
+  <a href="https://www.linkedin.com/in/ismael-antonio-0b7712114/">
+    <img src="https://img.shields.io/badge/Steven%20J%20Chung-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="linkedin badge">
+  </a>
+  <a href="https://twitter.com/ismaelixboy">
+    <img src="https://img.shields.io/twitter/follow/yiak_?color=%231DA1F2&label=FOLLOW&logo=twitter&style=for-the-badge" alt="twitter badge">
+  </a>
+  <a href="mailto:stevenjchung12@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge">
+  </a>
+
+</p>
 
 [website]: https://www.linkedin.com/in/ismael-antonio-0b7712114/
 [twitter]: https://twitter.com/ismaelixboy
