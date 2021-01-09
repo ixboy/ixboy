@@ -15,7 +15,7 @@
 
   <summary>:zap: <strong>More About Me 🙋‍♂️</strong></summary>
   <br>
-  <p align="justify">I see you want to know more about me 😁 well I will be happy to tell you more... <br>
+  <p align="justify">I see you want to know more about me 😁 <br> Awesome let's me tell you more... <br>
   <br>
 
   my name is Ismael. I'm a CCNA Routing & Switching Certified, CCNA Cyber Ops Certified, CompTIA A+ and CompTIA N+ Certified and I have Networking Specialist Qualification Diploma from Boston City college in Johannesburg / South Africa. I am currently a full-time student at <strong><a href="https://microverse.org">Microverse</a></strong>, and a part-time networking and Computer Technician.
@@ -81,7 +81,6 @@
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
   <img height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
-  <img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
   
   <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
