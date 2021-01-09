@@ -1,6 +1,9 @@
 <h3 align="center">Hi there, I'm Ismael Antonio, but you can call me Ismael - aka Ixboy.🙋‍♂️</h3>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/ismaelixboy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ismaelixboy)
+
 <hr>
-<p align="center"><i><strong>'All our dreams can come true, if we have the courage to pursue them.'</strong></i></p>
+<p align="center"><i><strong>"All our dreams can come true, if we have the courage to pursue them."</strong></i></p>
 <br/>
 
 <p align="justify"> Hey, welcome to my <b><a href="https://github.com/ixboy">GitHub Profile</a></b>. I am <b>Ismael</b> from <b>Angola</b> but currently living in <b>Saudi Arabia / Madina</b> I love computers, internet and everything related to technology. I am currently a full-time <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong>, and I am working towards becoming a better <b>Full-Stack Developer.</b><p>
@@ -8,8 +11,6 @@
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ixboy&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/ismaelixboy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ismaelixboy)
-<br/>
 <hr>
 
 <details>
