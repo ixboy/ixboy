@@ -9,7 +9,6 @@
 <br/>
 
 <p align="justify"> Hey, welcome to my <b><a href="https://github.com/ixboy">GitHub Profile</a></b>. I am <b>Ismael</b> from <b>Angola</b> but currently living in <b>Saudi Arabia / Madina</b> I love computers, internet and everything related to technology. I am currently a full-time <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong>, and I am working towards becoming a better <b>Full-Stack Developer.</b><p>
-<br/>
   
   <h3 align="center">
   
