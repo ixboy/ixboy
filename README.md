@@ -1,13 +1,15 @@
 <h3 align="center">Hi there, I'm Ismael Antonio, but you can call me Ismael - aka Ixboy.🙋‍♂️</h3>
+<hr>
 <p align="center"><i><strong>'All our dreams can come true, if we have the courage to pursue them.'</strong></i></p>
-<br />
+<br/>
 
 <p align="justify"> Hey, welcome to my <b><a href="https://github.com/ixboy">GitHub Profile</a></b>. I am <b>Ismael</b> from <b>Angola</b> but currently living in <b>Saudi Arabia / Madina</b> I love computers, internet, technology and everything related. I am currently a full-time <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong>, and I am working towards becoming a better <b>Full-Stack Developer.</b><p>
 <br/>
 
-[Twitter Follow](https://img.shields.io/twitter/follow/ismaelixboy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ismaelixboy)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ismaelixboy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ismaelixboy)
 <br />
 <br />
+<hr>
 
 <details>
 
@@ -16,11 +18,11 @@
   <p align="justify">I see you want to know more about me 😁 well I will be happy to tell you more... <br>
   <br>
 
-  I am <b>my name is Ismael</b>. I am a <b>CCNA Routing & Switching, CCNA Cyber Ops, CompTIA A+ and CompTIA N+ Certified</b> and a <b>Networking Specialist Qualification Diploma from Boston City college in Johannesbur / South Africa.<br/> And I am currently a full-time <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong>, and a part-time <br>networking and Computer Technician<br>.
-     I recently just got my <b>Arabic Linguistic Qualification Diploma</b> from the <b>Islamic University of Al-Madinah / Saudi Arabia</b> 🏫.
-    I am very <b>passionate</b> about computers and everything related to technology, not just web development, but also machine learning, AI, Cyber Security and much more. I am currently working on <b>Ruby</b> and <b>Ruby on Rails</b> projects and also trying to master other languages to become a better <b>Full-Stack Developer.</b>
-  I have previously worked in a <b>computer networking industry</b> full time, before joining  <strong><a href="https://microverse.org">Microverse</a></strong> as a <b>student</b>. therefore I have good Skills in Computer Networking Operations, Customer Service, strong computer Literacy, information technology, etc.
-    </p>
+  my name is Ismael. I am a CCNA Routing & Switching, CCNA Cyber Ops, CompTIA A+ and CompTIA N+ Certified and a Networking Specialist Qualification Diploma from Boston City college in Johannesbur / South Africa. And I am currently a full-time student at <strong><a href="https://microverse.org">Microverse</a></strong>, and a part-time networking and Computer Technician.
+     I recently just got my Arabic Linguistic Qualification Diploma from the Islamic University of Al-Madinah / Saudi Arabia🏫.
+    I am very passionate about computers and everything related to technology, not just web development, but also machine learning, AI, Cyber Security and much more. I am currently working on Ruby and Ruby on Rails projects and also trying to master other languages to become a better Full-Stack Developer.
+  I have previously worked in a computer networking industry full time, before joining  <strong><a href="https://microverse.org">Microverse</a></strong> as a student. therefore I have good Skills in Computer Networking Operations, Customer Service, strong computer Literacy, information technology, etc.
+  </p>
 
    <!-- <img height=430 width=320 align="right" src="tenho que meter minha foto aqui" alt="myself"> -->
 
@@ -54,3 +56,5 @@
    - Learn new human speaking Language.
 
 </details>
+<hr>
+<br>
