@@ -31,12 +31,12 @@
   I have previously worked in a computer networking industry full time, before joining  <strong><a href="https://microverse.org">Microverse</a></strong> as a student. therefore I have good Skills in Computer Networking Operations, Customer Service, strong computer Literacy, information technology, etc.
   </p>
 
-   <img height=310 width=320 align="right" src="http://s.4cdn.org/image/title/105.gif" alt="gif">
+   <img height=300 width=320 align="right" src="http://s.4cdn.org/image/title/105.gif" alt="gif">
 
    **My Hobbies**
    - Reading 📖
    - Cycling
-   - jumping and back flips
+   - parkour and back flips
    - Coding 👨‍💻
    - Exercising 🏃‍♂️
    - Gaming 🖱️
