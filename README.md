@@ -10,12 +10,23 @@
 <br />
 <br />
 <hr>
+Last 7 days I spent my time in technologies -
+<!--START_SECTION:waka-->
+```text
+Ruby         19 hrs 46 mins  ████████████████████░░░░░   79.88 % 
+Css          1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+JavaScript   1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+HTML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Git Config   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+```
+<!--END_SECTION:waka--> <br /><br />
+
 
 <details>
 
   <summary>:zap: <strong>More About Me 🙋‍♂️</strong></summary>
   <br>
-  <p align="justify">I see you want to know more about me 😁 <br> Awesome let's me tell you more... <br>
+  <p align="justify">I see you want to know more about me, right? 😁 <br> Awesome let's me tell you more... <br>
   <br>
 
   my name is Ismael. I'm a CCNA Routing & Switching Certified, CCNA Cyber Ops Certified, CompTIA A+ and CompTIA N+ Certified and I have Networking Specialist Qualification Diploma from Boston City college in Johannesburg / South Africa. I am currently a full-time student at <strong><a href="https://microverse.org">Microverse</a></strong>, and a part-time networking and Computer Technician.
@@ -59,7 +70,7 @@
 <hr>
 <br>
 <details>
-  <summary><strong>I have knowledge on these languages and tools 🧠</strong></summary>
+  <summary>:zap: <strong>I have knowledge on these languages and Technologies 🧠</strong></summary>
   <br>
 
   <p><strong>Human Languages:</strong></p>
@@ -71,7 +82,7 @@
   - French (Basic) still learning and improving...
 
   <br>
-  <p><strong>Programming Languages and Tools:</strong></p>
+  <p><strong>Programming Languages and Technologies:</strong></p>
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -88,6 +99,24 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 </details>
+<hr>
+<br>
+
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-darkblue?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-Angular-darkred?style=flat-square&logo=angular)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 <hr>
 <br>
@@ -104,3 +133,6 @@
     <img src="https://img.shields.io/twitter/follow/ismaelixboy?color=%231DA1F2&label=FOLLOW&logo=twitter&style=for-the-badge" alt="twitter badge">
   </a>
 </p>
+<p align="center">
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ixboy.id)
+  </p>
