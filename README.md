@@ -23,7 +23,7 @@
 
   <summary>:zap: <strong>More About Me 🙋‍♂️</strong></summary>
   <br>
-  <p align="justify">I see you want to know more about me, right? 😁 <br> Awesome let's me tell you more... <br>
+  <p align="justify">I see you want to know more about me, right? 😁 <br> Awesome let me tell you more... <br>
   <br>
 
   my name is Ismael. I'm a CCNA Routing & Switching Certified, CCNA Cyber Ops Certified, CompTIA A+ and CompTIA N+ Certified and I have Networking Specialist Qualification Diploma from Boston City college in Johannesburg / South Africa. I am currently a full-time student at <strong><a href="https://microverse.org">Microverse</a></strong>, and a part-time networking and Computer Technician.
@@ -44,10 +44,10 @@
 
    **Fun facts**
    - I can do front and back flips just like it's done in kung-fu movies⚡
-   - I am very good at pulling a wheelies with any Bikes but I also fell many times🤣
+   - I am very good at pulling wheelies with Bikes 
    - I am addicted to eating Bread.
    - I speak 4 different languages fluently and understand 3 more.
-   - I can say my name in 12 different languages.
+   - I can say my name in 12+ different languages.
 
   **I am currently**
    - 🌱 I’m currently learning everything to be honest 🤣
