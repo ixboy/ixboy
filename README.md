@@ -1,9 +1,11 @@
 <h3 align="center">Hi there, I'm Ismael Antonio, but you can call me Ismael - aka Ixboy.🙋‍♂️</h3>
-<p align="center">
+
+<p style="text-align: center;">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ismaelixboy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ismaelixboy)
 
 </p>
+
 <hr>
 <p align="center"><i><strong>"All our dreams can come true, if we have the courage to pursue them."</strong></i></p>
 <br/>
