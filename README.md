@@ -72,10 +72,10 @@
 
   <br>
   <p><strong>Programming Languages and Tools:</strong></p>
-  [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby">
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/followers/ixboy?color=%23181717&label=ixboy&logo=github&logoColor=%23181717&style=for-the-badge" alt="github badge">
   </a>
   <a href="https://www.linkedin.com/in/ismael-antonio-0b7712114/">
-    <img src="https://img.shields.io/badge/ismael-antonio-Connect-0b7712114?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="linkedin badge">
+    <img src="https://img.shields.io/badge/ismael-antonio?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="linkedin badge">
   </a>
   <a href="https://twitter.com/ismaelixboy">
     <img src="https://img.shields.io/twitter/follow/ismaelixboy?color=%231DA1F2&label=FOLLOW&logo=twitter&style=for-the-badge" alt="twitter badge">
