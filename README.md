@@ -11,7 +11,11 @@
 <p align="justify"> Hey, welcome to my <b><a href="https://github.com/ixboy">GitHub Profile</a></b>. I am <b>Ismael</b> from <b>Angola</b> but currently living in <b>Saudi Arabia / Madina</b> I love computers, internet and everything related to technology. I am currently a full-time <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong>, and I am working towards becoming a better <b>Full-Stack Developer.</b><p>
 <br/>
   
+  <h3 align="center">
+  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ixboy&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </h3>
   
 <hr>
 
@@ -28,7 +32,7 @@
   I have previously worked in a computer networking industry full time, before joining  <strong><a href="https://microverse.org">Microverse</a></strong> as a student. therefore I have good Skills in Computer Networking Operations, Customer Service, strong computer Literacy, information technology, etc.
   </p>
 
-   <img height=430 width=320 align="right" src="http://s.4cdn.org/image/title/105.gif" alt="gif">
+   <img height=360 width=320 align="right" src="http://s.4cdn.org/image/title/105.gif" alt="gif">
 
    **My Hobbies**
    - Reading 📖
