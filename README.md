@@ -5,12 +5,9 @@
 
 <p align="justify"> Hey, welcome to my <b><a href="https://github.com/ixboy">GitHub Profile</a></b>. I am <b>Ismael</b> from <b>Angola</b> but currently living in <b>Saudi Arabia / Madina</b> I love computers, internet and everything related to technology. I am currently a full-time <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong>, and I am working towards becoming a better <b>Full-Stack Developer.</b><p>
 <br/>
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/ismaelixboy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ismaelixboy)
 <br />
-<br />
 <hr>
-
 
 <details>
 
@@ -83,26 +80,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-darkblue?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-Angular-darkred?style=flat-square&logo=angular)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
 
 </details>
 <hr>
-<br>
-## ⚡ Technologies
-
-
 <hr>
-***<p align="center">🟢Currently Available for Professional Oportunities👨‍💻</p>***
+<p align="center">🟢Currently Available for Professional Oportunities👨‍💻</p>
 <p align="center">
   <a href="https://github.com/ixboy">
     <img src="https://img.shields.io/github/followers/ixboy?color=%23181717&label=ixboy&logo=github&logoColor=%23181717&style=for-the-badge" alt="github badge">
