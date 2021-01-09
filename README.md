@@ -1,10 +1,8 @@
-<h3 align="center">Hi there, I'm Ismael Antonio, but you can call me Ismael - aka Ixboy.🙋‍♂️</h3>
-
-<p style="text-align: center;">
+<h3 align="center">Hi there, I'm Ismael Antonio, but you can call me Ismael - aka Ixboy.🙋‍♂️
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ismaelixboy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ismaelixboy)
 
-</p>
+</h3>
 
 <hr>
 <p align="center"><i><strong>"All our dreams can come true, if we have the courage to pursue them."</strong></i></p>
@@ -30,7 +28,7 @@
   I have previously worked in a computer networking industry full time, before joining  <strong><a href="https://microverse.org">Microverse</a></strong> as a student. therefore I have good Skills in Computer Networking Operations, Customer Service, strong computer Literacy, information technology, etc.
   </p>
 
-   <!-- <img height=430 width=320 align="right" src="tenho que meter minha foto aqui" alt="myself"> -->
+   <img height=430 width=320 align="right" src="http://s.4cdn.org/image/title/105.gif" alt="gif">
 
    **My Hobbies**
    - Reading 📖
