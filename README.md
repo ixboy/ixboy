@@ -54,7 +54,6 @@
    - 📖 Reading more Arabic books
    - Working with Ruby
    - Learning JavaScript
-   - 🤣 Eating Bread
 
    **🥅 2021 Goals:**
    - Contribute more to Open Source projects.
