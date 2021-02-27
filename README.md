@@ -103,7 +103,7 @@
   <a href="https://github.com/ixboy">
     <img src="https://img.shields.io/github/followers/ixboy?color=%23181717&label=ixboy&logo=github&logoColor=%23181717&style=for-the-badge" alt="github badge">
   </a>
-  <a href="linkedin.com/in/ismaelantonio">
+  <a href="https://www.linkedin.com/in/ismaelantonio/">
     <img src="https://img.shields.io/badge/ismael-antonio?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="linkedin badge">
   </a>
   <a href="https://twitter.com/ismaelixboy">
