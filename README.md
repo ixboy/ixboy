@@ -22,8 +22,12 @@
 
   <summary>:zap: <strong>More about me 🙋‍♂️</strong></summary>
   <br>
-  <p align="justify">I see you want to know more about me, right? 😁 <br> 
-    Awesome, you can contact me at: ismaelixboy@gmail.com <br> ⚡ Also please checkout my [Portfolio Website](https://www.ismaelixboy.me)<br></p>
+  <p align="justify">I see you want to know more about me, right?...😁  </p><br> <br> <br>
+   - Awesome, you can contact me at: ismaelixboy@gmail.com <br> 
+   - ⚡ Also please checkout my [Portfolio Website](https://www.ismaelixboy.me).
+  
+📫 Send me a professional email at: emmy1000okello@gmail.com
+- ⚡ Checkout my [Portfolio Website](https://www.emanuel-okello.me)
 
 
    <img height=300 width=320 align="right" src="http://s.4cdn.org/image/title/105.gif" alt="gif">
