@@ -8,7 +8,7 @@
 <p align="center"><i><strong>"All our dreams can come true, if we have the courage to pursue them."</strong></i></p>
 <br/>
 
-<p align="justify"> Hey, welcome to my <b><a href="https://github.com/ixboy">GitHub Profile</a></b>. I am <b>Ismael</b> from <b>Angola</b> but currently living in <b>Saudi Arabia / Madina</b> I love computers, internet and everything related to technology. I am currently a full-time <b>student</b> at <strong><a href="https://www.microverse.org/?grsf=xrjh93">Microverse</a></strong>, and I am working towards becoming a better <b>Full-Stack developer.</b><p>
+<p align="justify"> Hey, welcome to my <b><a href="https://github.com/ixboy">GitHub Profile</a></b>. I am <b>Ismael</b> from <b>Angola</b> but currently living in <b>Saudi Arabia / Madinah</b>, I am a full stack developer, and I'm available for remote software development opportunities. I love computers, cybersecurity, machine learning, internet and everything related to technology. I am currently working towards becoming a better <b>Full-Stack developer</b> and looking for new opportunities especially with JavaScript and Ruby Frameworks.<p>
   
   <h3 align="center">
   
@@ -22,44 +22,33 @@
 
   <summary>:zap: <strong>More about me 🙋‍♂️</strong></summary>
   <br>
-  <p align="justify">I see you want to know more about me, right? 😁 <br> Awesome let me tell you more... <br>
-  <br>
+  <p align="justify">I see you want to know more about me, right? 😁 <br> 
+    Awesome, you can contact me at: ismaelixboy@gmail.com <br> ⚡ Also please checkout my [Portfolio Website](https://www.ismaelixboy.me)<br></p>
 
-  my name is Ismael. I'm a CCNA Routing & Switching Certified, CCNA Cyber Ops Certified, CompTIA A+ and CompTIA N+ Certified and I have Networking Specialist Qualification Diploma from Boston City college in Johannesburg / South Africa. I am currently a full-time student at <strong><a href="https://www.microverse.org/?grsf=xrjh93">Microverse</a></strong>, and a part-time networking and Computer Technician.
-     I have recently just got my Arabic Linguistic Qualification Diploma from the Islamic University of Al-Madinah / Saudi Arabia🏫.
-    I am very passionate about computers and everything related to technology, not just web development, but also Cyber Security, machine learning, AI and much more. I am currently working on Ruby and Ruby on Rails projects and also trying to master other languages to become a better Full-Stack Developer.
-  I have previously worked in a computer networking industry full time, before joining  <strong><a href="https://www.microverse.org/?grsf=xrjh93">Microverse</a></strong> as a student. therefore I have good Skills in Computer Networking Operations, Customer Service, strong computer literacy, information technology, etc.
-  </p>
 
    <img height=300 width=320 align="right" src="http://s.4cdn.org/image/title/105.gif" alt="gif">
 
    **My hobbies**
-   - Reading 📖
    - Cycling
    - parkour and back flips
    - Coding 👨‍💻
    - Exercising 🏃‍♂️
-   - Gaming 🖱️
 
    **Fun facts**
    - I can do front and back flips just like it's done in kung-fu movies⚡
-   - I am very good at pulling wheelies with Bikes 
    - I am addicted to eating Bread.
-   - I speak 4 different languages fluently and understand 3 more.
-   - I can say my name in 12+ different languages.
 
   **I am currently**
-   - 🌱 I’m currently learning everything to be honest 🤣
-   - 👯 I’m looking to collaborate with other content creators and curious people who enjoy coding and different technologies.
+   - 👯 looking to collaborate with other content creators and curious people who enjoy coding and different technologies.
    - 📖 Reading more Arabic books
-   - Working with Ruby
-   - Learning JavaScript
+   - I recently just got my Arabic Linguistic Qualification Diploma from the Islamic University of Madinah / Saudi Arabia🏫.
+    - Working with Ruby on Rails projects.
 
    **🥅 2021 goals:**
    - Contribute more to Open Source projects.
    - increase my knowledge in programming and cyber security.
    - be more creative.
-   - Learn new human speaking Language.
+   - Learn a new human speaking Language.
 
 </details>
 <hr>
@@ -74,7 +63,6 @@
   - English
   - Arabic
   - Lingala
-  - French (Basic) still learning and improving...
   <br>
   
   <p><strong> ⚡ Programming languages and technologies:</strong></p>
