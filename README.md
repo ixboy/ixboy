@@ -42,9 +42,9 @@
 
   **I am currently**
    - 👯 looking to collaborate with other content creators and curious people who enjoy coding and different technologies.
-   - 📖 Reading more Arabic books
+   - Working with Ruby on Rails projects.
+   - 📖 Reading more Arabic books.
    - I recently just got my Arabic Linguistic Qualification Diploma from the Islamic University of Madinah / Saudi Arabia🏫.
-    - Working with Ruby on Rails projects.
 
    **🥅 2021 goals:**
    - Contribute more to Open Source projects.
