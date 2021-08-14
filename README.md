@@ -9,7 +9,7 @@
 <br/>
 
 <p align="justify"> Hey, welcome to my <b><a href="https://github.com/ixboy">GitHub Profile</a></b>. I am <b>Ismael</b> from <b>Angola</b> but currently living in <b>Saudi Arabia / Madinah</b>, I am a full stack developer, and I'm available for remote software development opportunities. I love computers, cybersecurity, machine learning, internet and everything related to technology. I am currently working towards becoming a better <b>Full-Stack developer</b> and looking for new opportunities especially with JavaScript and Ruby Frameworks. 
-   Checkout --> <a href="https://ismaelixboy.me/" target="_blank">My portfolio Website</a><p>
+   Checkout --> <a href="https://ismaelixboy.me/">My portfolio Website</a><p>
   
   <h3 align="center">
   
