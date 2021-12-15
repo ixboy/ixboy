@@ -8,7 +8,7 @@
 <p align="center"><i><strong>"All our dreams can come true, if we have the courage to pursue them."</strong></i></p>
 <br/>
 
-<p align="justify"> Hey, welcome to my <b><a href="https://github.com/ixboy">GitHub Profile</a></b>. I am <b>Ismael</b> from <b>Angola / Luanda</b>, I'm a Full-Stack developer, and I'm available for remote software development opportunities. I love computers, cybersecurity, machine learning, internet and everything related to technology. I am currently working towards becoming a better <b>Full-Stack developer</b> and looking for new opportunities especially with JavaScript and Ruby Frameworks. 
+<p align="justify"> Hey, welcome to my <b><a href="https://github.com/ixboy">GitHub Profile</a></b>. I am <b>Ismael</b> from <b>Angola / Luanda</b>, but currently living in <b>Saudi Arabia / Medina</b>, I'm a Full-Stack developer, and I'm available for remote software development opportunities. I love computers, cybersecurity, machine learning, internet and everything related to technology. I am currently working towards becoming a better <b>Full-Stack developer</b> and looking for new opportunities especially with JavaScript and Ruby Frameworks. 
    Checkout --> <a href="https://ismaelixboy.me/">My portfolio Website</a><p>
   
   <h3 align="center">
