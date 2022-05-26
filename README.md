@@ -47,8 +47,8 @@
    - 📖 Reading more Arabic books.
    - I recently got my Arabic Linguistic Qualification Diploma from the Islamic University of Medina / Saudi Arabia🏫.
 
-   **🥅 2021 goals:**
-   - Contribute more to Open Source projects.
+   **🥅 2022 goals:**
+   - Contribute to Open Source projects.
    - increase my knowledge in programming and cyber security.
    - be more creative.
    - Learn a new human speaking Language.
