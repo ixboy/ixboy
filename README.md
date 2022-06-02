@@ -26,7 +26,7 @@
   <p align="justify">I see you want to know more about me, right?...😁  </p><br>
   
   - 📫 Awesome, you can contact me at: ismaelixboy@gmail.com
-  - ⚡ Also, please checkout my [Portfolio Website](https://www.ismaelixboy.me)
+  - ⚡ Also, please checkout my [Portfolio Website](https://ixboy.github.io/portfolio/)
 
 
    <img height=300 width=320 align="right" src="http://s.4cdn.org/image/title/105.gif" alt="gif">
