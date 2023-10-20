@@ -8,7 +8,7 @@
 <p align="center"><i><strong>"All our dreams can come true, if we have the courage to pursue them."</strong></i></p>
 <br/>
 
-<p align="justify"> Hey, welcome to my <b><a href="https://github.com/ixboy">GitHub Profile</a></b>. I am <b>Ismael</b> from <b>Angola / Luanda</b>, but currently living in <b>Saudi Arabia / Medina</b>, I love computers, cybersecurity, machine learning, internet and everything related to technology.
+<p align="justify"> Hey, welcome to my <b><a href="https://github.com/ixboy">GitHub Profile</a></b>. I am <b>Ismael</b> from <b>Angola / Luanda</b>, but currently living in <b>New York</b>, I love computers, cybersecurity, machine learning, internet and everything related to technology.
    I'm a Full-Stack developer, and I'm available for remote software development opportunities. Checkout --> <a href="https://ixboy.github.io/portfolio/">My portfolio Website</a><p>
   
   <h3 align="center">
@@ -45,13 +45,7 @@
    - 👯 looking to collaborate with other content creators and curious people who enjoy coding and different technologies.
    - Working with Ruby on Rails projects.
    - 📖 Reading more Arabic books.
-   - I recently got my Arabic Linguistic Qualification Diploma from the Islamic University of Medina / Saudi Arabia🏫.
-
-   **🥅 2022 goals:**
-   - Contribute to Open Source projects.
-   - increase my knowledge in programming and cyber security.
-   - be more creative.
-   - Learn a new human speaking Language.
+   - I have an Arabic Linguistic Qualification Diploma from the Islamic University of Medina / Saudi Arabia🏫.
 
 </details>
 <hr>
